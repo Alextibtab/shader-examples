@@ -1,0 +1,15 @@
+{
+  "name": "shader-examples",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Alextibtab/shader-examples",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [ "glfw-binding", "opengl3-binding", "docking-experimental" ]
+    },
+    "glfw3",
+    "glm",
+    "opengl",
+    "glad"
+  ]
+}
